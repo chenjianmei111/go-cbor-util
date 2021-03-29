@@ -1,4 +1,4 @@
-module github.com/filecoin-project/go-cbor-util
+module github.com/chenjianmei111/go-cbor-util
 
 go 1.13
 
